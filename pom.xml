@@ -21,7 +21,7 @@
 		<sonar.cobertura.reportPath>${project.basedir}/target/cobertura/cobertura.ser</sonar.cobertura.reportPath>
 
 		<!-- SONAR -->
-		<sonar.host.url>http://52.34.191.248:9000/</sonar.host.url>
+		<sonar.host.url>http://52.88.212.253:9000/</sonar.host.url>
 		<sonar.sources>src/main/java</sonar.sources>
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
 		<sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
